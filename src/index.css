@@ -1,2 +1,14 @@
 @import "tailwindcss";
 
+body {
+    font-family: Noto-Sans;
+    color: #ededed;
+    color: #d6e2f5;
+    color: #c7c7c7;
+    color: #545969;
+    color: #2f364b;
+    color: #212636;
+    color: #09153e;
+  }
+  
+  
